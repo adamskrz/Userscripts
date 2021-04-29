@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Tabula Timetable
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/adamskrz/
 // @version      0.1
-// @description  Quick javascrpt to add direct lik to timetable in tabula menubar
+// @description  Quick JS script to add direct link to timetable in Tabula menubar
 // @author       adamskrz
 // @match        https://tabula.warwick.ac.uk/*
 // @grant        none
